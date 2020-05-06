@@ -1,0 +1,9 @@
+C:\Users\Usuario\Documents\FABRICA\ProcessArray\bin\Debug\netstandard2.0\ProcessArray.deps.json
+C:\Users\Usuario\Documents\FABRICA\ProcessArray\bin\Debug\netstandard2.0\ProcessArray.dll
+C:\Users\Usuario\Documents\FABRICA\ProcessArray\bin\Debug\netstandard2.0\ProcessArray.pdb
+C:\Users\Usuario\Documents\FABRICA\ProcessArray\obj\Debug\netstandard2.0\ProcessArray.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\FABRICA\ProcessArray\obj\Debug\netstandard2.0\ProcessArray.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\FABRICA\ProcessArray\obj\Debug\netstandard2.0\ProcessArray.AssemblyInfo.cs
+C:\Users\Usuario\Documents\FABRICA\ProcessArray\obj\Debug\netstandard2.0\ProcessArray.dll
+C:\Users\Usuario\Documents\FABRICA\ProcessArray\obj\Debug\netstandard2.0\ProcessArray.pdb
+C:\Users\Usuario\Documents\FABRICA\ProcessArray\obj\Debug\netstandard2.0\ProcessArray.csprojAssemblyReference.cache
